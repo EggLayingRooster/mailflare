@@ -1,7 +1,7 @@
 <img src="public/icon-192.png" alt="Mailflare" width="96" />
 
 
-# Mailflare
+# Mailflare 
 
 A self-hosted alternative to Google Workspace. Setup **custom domain Emails**, **Calendar, Drive, Booking** and **built-in AI agents**.
 
